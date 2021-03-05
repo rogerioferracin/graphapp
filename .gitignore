@@ -1,0 +1,15 @@
+node_modules
+myenv
+dist
+.vscode
+.idea
+db.sqlite3
+__pycache__
+.pyc
+.DS_Store
+*.egg-info
+build
+!tests/dist
+.coverage
+htmlcov
+_build
